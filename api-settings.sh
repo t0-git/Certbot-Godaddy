@@ -1,3 +1,4 @@
+#!/bin/bash
 # api-settings.sh -- Configuration file
 #
 # Copyright (C) 2019 Martijn Veldpaus
@@ -16,5 +17,5 @@ EMAIL=letsencrypt@${DOMAIN}
 # GoDaddy API Credentials
 GODADDY_API_KEY=""
 GODADDY_API_SECRET=""
-GODADDY_URL="https://api.godaddy.com/"
+GODADDY_URL="https://api.godaddy.com"
 ############################################################
